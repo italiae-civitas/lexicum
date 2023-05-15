@@ -11,3 +11,4 @@ dependencies:
   - drupal:text
   - drupal:taxonomy
   - drupal:pathauto
+  - color_field:color_field
