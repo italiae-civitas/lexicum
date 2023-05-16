@@ -5,7 +5,8 @@
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/italiae-civitas/lexicum/drupal/core-recommended?style=for-the-badge)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/italiae-civitas/lexicum?style=for-the-badge)
 
-[Lexicum] è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
+[Lexicum](https://www.dizionario-latino.com/dizionario-italiano-latino.php?lemma=VOCABOLARIO100) è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
+
 Lexicum, oltre ai vocabolari, importa le configurazioni degli url.
 
 ## Requisiti
