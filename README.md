@@ -1,11 +1,11 @@
 # Lexicum
 
-![GitHub](https://img.shields.io/github/license/urbs-italiae/lexicum?style=for-the-badge)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/urbs-italiae/lexicum?sort=semver&style=for-the-badge)
-![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/urbs-italiae/lexicum/drupal/core-recommended?style=for-the-badge)
-![Packagist Downloads](https://img.shields.io/packagist/dt/urbs-italiae/lexicum?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/italiae-civitas/lexicum?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/italiae-civitas/lexicum?sort=semver&style=for-the-badge)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/italiae-civitas/lexicum/drupal/core-recommended?style=for-the-badge)
+![Packagist Downloads](https://img.shields.io/packagist/dt/italiae-civitas/lexicum?style=for-the-badge)
 
-[Lexicum](https://www.grecoantico.com/dizionario-greco-antico.php?parola=lexikon) è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
+[Lexicum](https://www.dizionario-latino.com/dizionario-italiano-latino.php?lemma=VOCABOLARIO100) è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
 Lexicum, oltre ai vocabolari, importa le configurazioni degli url.
 
 ## Requisiti
@@ -16,7 +16,7 @@ Lexicum, oltre ai vocabolari, importa le configurazioni degli url.
 ## Installazione
 Per aggiungere il modulo alla tua installazione esegui:
 ```shell
-$ composer require drupal/pathauto urbs-italiae/lexicum
+$ composer require drupal/pathauto italiae-civitas/lexicum
 ```
 Installa il modulo `pathauto` e configuralo:
 ```shell
