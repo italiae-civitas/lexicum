@@ -1,9 +1,9 @@
 {
-    "name": "italiaecivitas/lexicum",
+    "name": "municipes/lexicum",
     "description": "Lexicum è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.",
     "type": "drupal-module",
     "license": "GPL-3.0-only",
-    "homepage": "https://github.com/italiaecivitas/lexicum",
+    "homepage": "https://github.com/municipes/lexicum",
     "authors": [
         {
             "name": "Maurizio Cavalletti",
@@ -17,14 +17,15 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/italiaecivitas/lexicum/issues",
-        "source": "https://github.com/italiaecivitas/lexicum"
+        "issues": "https://github.com/municipes/lexicum/issues",
+        "source": "https://github.com/municipes/lexicum"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "drupal/core-recommended": "^10",
         "drupal/pathauto": "^1",
-        "drupal/color_field": "^3.0"
+        "drupal/color_field": "^3.0",
+        "municipes/media_configuratio": "^1"
     }
 }

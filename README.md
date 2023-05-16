@@ -1,9 +1,9 @@
 # Lexicum
 
-![GitHub](https://img.shields.io/github/license/italiaecivitas/lexicum?style=for-the-badge)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/italiaecivitas/lexicum?sort=semver&style=for-the-badge)
-![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/italiaecivitas/lexicum/drupal/core-recommended?style=for-the-badge)
-![Packagist Downloads](https://img.shields.io/packagist/dt/italiaecivitas/lexicum?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/municipes/lexicum?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/municipes/lexicum?sort=semver&style=for-the-badge)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/municipes/lexicum/drupal/core-recommended?style=for-the-badge)
+![Packagist Downloads](https://img.shields.io/packagist/dt/municipes/lexicum?style=for-the-badge)
 
 [Lexicum](https://www.dizionario-latino.com/dizionario-italiano-latino.php?lemma=VOCABOLARIO100) è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
 
@@ -17,7 +17,7 @@ Lexicum, oltre ai vocabolari, importa le configurazioni degli url.
 ## Installazione
 Per aggiungere il modulo alla tua installazione esegui:
 ```shell
-$ composer require drupal/pathauto italiaecivitas/lexicum
+$ composer require drupal/pathauto municipes/lexicum
 ```
 Installa il modulo `pathauto` e configuralo:
 ```shell
@@ -35,11 +35,11 @@ Questo è il risultato:
 
 ## Moduli consigliati
 Per importare le voci di tassonomia nei vocabolari puoi usare:
-[Lexicum Collatio](https://github.com/italiaecivitas/lexicum collatio)
+[Lexicum Collatio](https://github.com/municipes/lexicum collatio)
 
 ## License
 
-Copyright (C) 2023 https://github.com/italiaecivitas
+Copyright (C) 2023 https://github.com/municipes
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
 
