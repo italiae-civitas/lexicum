@@ -6,6 +6,7 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/italiae-civitas/lexicum?style=for-the-badge)
 
 [Lexicum](https://www.dizionario-latino.com/dizionario-italiano-latino.php?lemma=VOCABOLARIO100) è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
+
 Lexicum, oltre ai vocabolari, importa le configurazioni degli url.
 
 ## Requisiti
@@ -34,11 +35,11 @@ Questo è il risultato:
 
 ## Moduli consigliati
 Per importare le voci di tassonomia nei vocabolari puoi usare:
-[Congruere lexicum](https://github.com/urbs-italiae/congruere_lexicum)
+[Lexicum Collatio](https://github.com/italiae-civitas/lexicum collatio)
 
 ## License
 
-Copyright (C) 2023 https://github.com/urbs-italiae
+Copyright (C) 2023 https://github.com/italiae-civitas
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
 
