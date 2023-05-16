@@ -1,6 +1,6 @@
 name: "Lexicum"
 description: Lexicum è un modulo Drupal che installa i vocabolari utilizzati dai Comuni.
-package: "Urbs Italiae"
+package: "Italiae Civitas"
 
 type: module
 core_version_requirement: ^10
@@ -10,5 +10,6 @@ dependencies:
   - drupal:locale
   - drupal:text
   - drupal:taxonomy
+  - drupal:media
   - drupal:pathauto
   - drupal:color_field
