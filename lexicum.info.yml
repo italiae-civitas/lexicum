@@ -13,3 +13,4 @@ dependencies:
   - drupal:media
   - drupal:pathauto
   - drupal:color_field
+  - italiaecivitas:media_configuratio
