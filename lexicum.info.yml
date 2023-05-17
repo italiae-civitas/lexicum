@@ -11,6 +11,7 @@ dependencies:
   - drupal:text
   - drupal:taxonomy
   - drupal:media
+  - drupal:media_library
   - drupal:pathauto
   - drupal:color_field
   - municipes:media_configuratio
