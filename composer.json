@@ -25,7 +25,6 @@
     "require": {
         "drupal/core-recommended": "^10",
         "drupal/pathauto": "^1",
-        "drupal/color_field": "^3.0",
-        "municipes/media_configuratio": "^1"
+        "drupal/color_field": "^3.0"
     }
 }
