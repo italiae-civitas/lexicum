@@ -14,4 +14,4 @@ dependencies:
   - drupal:media_library
   - drupal:pathauto
   - drupal:color_field
-  - municipes:bibliotecha
+  - municipes:bibliotheca
